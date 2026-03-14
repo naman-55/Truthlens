@@ -1,0 +1,5 @@
+{
+  "name": "TruthLens",
+  "description": "Real-time AI-powered fake news and AI-generated content detector.",
+  "requestFramePermissions": []
+}
